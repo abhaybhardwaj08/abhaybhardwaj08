@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhaybhardwaj08
+- 👋 Hi, I’m Abhay Bhardwaj
 - 👀 I’m interested in coding
 - 🌱 I’m currently working on something cool
 
